@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Ana Vitoria
 
 
-- 🔭 Cursando Sistemas de informação - UNITINS
-- 🌱 Estudando JAVA
-- 👯 Contato anavitoriacampos@hotmail.com
-- 🤔 Pronomes ela/dela
+- 📖 Cursando Sistemas de informação - UNITINS
+- 💻 Estudando JAVA
+- 📩 Contato anavitoriacampos@hotmail.com
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
