@@ -2,7 +2,6 @@
 
 
 - 📖 Cursando Sistemas de informação - UNITINS
-- 💻 Estudando JAVA, HTML, PYTHON
 - 📩 Contato anavitoriacampos@hotmail.com
 
 
